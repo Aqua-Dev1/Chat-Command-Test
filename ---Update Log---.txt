@@ -1,0 +1,11 @@
+---Update Log---
+
+[UPD 0.0.1] [23/12/25] [Full Release]
+-Added Commands
+-Added User , Fps , Version Counters
+-Added Reset Data Block
+
+[UPD 0.0.2] [23/12/25] [Fixed Variables]
+-Fixed FPS Glitch
+-Fixed Test.var
+-Fixed File Loading 
