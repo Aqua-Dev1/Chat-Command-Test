@@ -9,3 +9,7 @@
 -Fixed FPS Glitch
 -Fixed Test.var
 -Fixed File Loading 
+
+[UPD 0.0.3] [28/12/25] [X , Y Variables]
+-Added X , Y Variables
+-Fixed Version data
