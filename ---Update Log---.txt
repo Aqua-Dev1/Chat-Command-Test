@@ -13,3 +13,7 @@
 [UPD 0.0.3] [28/12/25] [X , Y Variables]
 -Added X , Y Variables
 -Fixed Version data
+
+[UPD 0.0.4] [14/1/25] [Ping Variable Test]
+-Added Ping Variable
+-Removed STT Triger
